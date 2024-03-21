@@ -1,0 +1,26 @@
+{
+    "version": "1.0.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/golang-mods/tango/releases/download/v1.0.2/tango_Windows_i386.zip",
+            "bin": [
+                "tango.exe"
+            ],
+            "hash": "f176bc1193724efa64396f315b01fbb8b30318f5da3bdbef9b581eea5d659a2e"
+        },
+        "64bit": {
+            "url": "https://github.com/golang-mods/tango/releases/download/v1.0.2/tango_Windows_x86_64.zip",
+            "bin": [
+                "tango.exe"
+            ],
+            "hash": "9573174ce5f74e8a6a234ac09a2b42634db4dd482bf3df8838c661b36ae356a6"
+        },
+        "arm64": {
+            "url": "https://github.com/golang-mods/tango/releases/download/v1.0.2/tango_Windows_arm64.zip",
+            "bin": [
+                "tango.exe"
+            ],
+            "hash": "e99bd132a5531af4c021220050658b0009c47e312fa9aae2e3f7d5e519ae1ec9"
+        }
+    }
+}
